@@ -1,3 +1,6 @@
+#include <avr/io.h>
+#include <util/delay.h>
+#include "lcd.h"
 #include "i2c.h"
 #include "LCD_I2C.h"
 
