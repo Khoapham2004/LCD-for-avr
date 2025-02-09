@@ -13,5 +13,7 @@ https://www.electronicwings.com/avr-atmega/interfacing-lcd-16x2-in-4-bit-mode-wi
 
 https://github.com/Hossam-Elbahrawy/16x2-LCD
 
+Video how to use
 
+https://drive.google.com/drive/folders/1lgGV1jY3zFbTfOqSKDfLXqb-59AT8Ipm
 
